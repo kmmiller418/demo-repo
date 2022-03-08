@@ -1,12 +1,5 @@
-# Demo
+# Home of HTML/CSS Tutorial Exercises
 
-Some description.
+This repository currently houses exercises from SuperSimpleDev's [HTML/CSS tutorial](https://www.youtube.com/watch?v=G3e-cpL7ofc)
 
-## Subheader
-
-Watch tutorial on YouTube.
-
-## Local Development
-
-1. Open index.html in your browser.
-2. Have fun!
+It also functions as version control practice. 
